@@ -1,6 +1,6 @@
 # HorSat2
 
-> HorSat2 版本 0.92 (c) 2015 by Naoki Kobayashi and Taku Terao
+> HorSat2 版本 0.92 (c) 2015 来自 Naoki Kobayashi 与 Taku Terao
 
 HorSat2 是一个用于高阶递归方案（HORS）的模型检查器。
 Web 演示版请见：<http://www-kb.is.s.u-tokyo.ac.jp/~koba/horsat2/>
